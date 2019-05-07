@@ -8,9 +8,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author Vijayalakshmi
+ * @author Vijayalakshmi V
  * @date 7/5/2019
- * Test Servlet class
+ * Test Servlet class 
  */
 @WebServlet("/hello")
 public class HelloWorldServlet extends HttpServlet {
