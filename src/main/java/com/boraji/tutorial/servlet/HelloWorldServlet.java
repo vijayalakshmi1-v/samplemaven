@@ -8,7 +8,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author Viji
+ * @author Vijayalakshmi
+ * @date 7/5/2019
  */
 @WebServlet("/hello")
 public class HelloWorldServlet extends HttpServlet {
