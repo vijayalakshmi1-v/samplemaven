@@ -10,6 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * @author Vijayalakshmi
  * @date 7/5/2019
+ * Test Servlet class
  */
 @WebServlet("/hello")
 public class HelloWorldServlet extends HttpServlet {
